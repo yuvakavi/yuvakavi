@@ -11,7 +11,7 @@
 
 - 🔭 Currently working as **AI Developer Intern** at **Banao Technologies / ATG**
 - 🌱 Learning **GEN AI,AWS,AGENTIC AI **
-- 💡 Interested in **AI, Computer Vision, NLP & Data Science,LLM,AGENTIC AI ,**
+- 💡 Interested in **AI, Computer Vision, NLP & Data Science,LLM,AGENTIC AI **
 - 📫 Reach me at: **y7358040@gmail.com**
 - 📄 My Resume:  
   👉 <a href="https://drive.google.com/file/d/1FTugrCu9ETuwgIDNmHumYRRnYkuww5uY/view" target="_blank">View Resume</a>
