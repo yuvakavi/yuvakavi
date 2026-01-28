@@ -20,48 +20,14 @@
 
 ### 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/yuva-sri-p-41a5402a3" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
-  </a>
-  <a href="https://www.kaggle.com/yuva503" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="35"/>
-  </a>
-  <a href="https://www.instagram.com/____yuva___sri/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
-  </a>
-  <a href="https://www.behance.net/yuvasrip" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" width="35"/>
-  </a>
-  <a href="https://leetcode.com/u/yuvasri503/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/y7358040" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="35"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/y7358wkdr" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="35"/>
-  </a>
-</p>
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/yuva-sri-p-41a5402a3" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36" style="margin-right:15px;" /> </a> <a href="https://www.kaggle.com/yuva503" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="36" style="margin-right:15px;" /> </a> <a href="https://www.instagram.com/____yuva___sri/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="36" style="margin-right:15px;" /> </a> <a href="https://www.behance.net/yuvasrip" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" width="36" style="margin-right:15px;" /> </a> <a href="https://leetcode.com/u/yuvasri503/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="36" /> </a> </p>
 
 ---
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" style="margin:10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" style="margin:10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" style="margin:10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" style="margin:10px;" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" style="margin:10px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="42" style="margin:10px;" /> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="42" style="margin:10px;" /> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42" style="margin:10px;" /> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42" style="margin:10px;" /> </p>
 
 ---
 
