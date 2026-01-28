@@ -10,8 +10,8 @@
 ### 👩‍💻 About Me
 
 - 🔭 Currently working as **AI Developer Intern** at **Banao Technologies / ATG**
-- 🌱 Learning **Advanced ML, Deep Learning & Deployment**
-- 💡 Interested in **AI, Computer Vision, NLP & Data Science**
+- 🌱 Learning **GEN AI,AWS,AGENTIC AI **
+- 💡 Interested in **AI, Computer Vision, NLP & Data Science,LLM,AGENTIC AI ,**
 - 📫 Reach me at: **y7358040@gmail.com**
 - 📄 My Resume:  
   👉 <a href="https://drive.google.com/file/d/1FTugrCu9ETuwgIDNmHumYRRnYkuww5uY/view" target="_blank">View Resume</a>
@@ -68,14 +68,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvasri503&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvakavi&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvasri503&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvakavi&theme=tokyonight" />
 </p>
 
 ---
+
 
 ⭐ *“Always learning, always building.”*
 
