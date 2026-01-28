@@ -20,7 +20,6 @@
 
 ### 🌐 Connect With Me
 
-🌐 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/yuva-sri-p-41a5402a3" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36" style="margin-right:15px;" /> </a> <a href="https://www.kaggle.com/yuva503" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="36" style="margin-right:15px;" /> </a> <a href="https://www.instagram.com/____yuva___sri/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="36" style="margin-right:15px;" /> </a> <a href="https://www.behance.net/yuvasrip" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" width="36" style="margin-right:15px;" /> </a> <a href="https://leetcode.com/u/yuvasri503/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="36" /> </a> </p>
 
 ---
