@@ -29,17 +29,5 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" style="margin:10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" style="margin:10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" style="margin:10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" style="margin:10px;" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" style="margin:10px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="42" style="margin:10px;" /> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="42" style="margin:10px;" /> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42" style="margin:10px;" /> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42" style="margin:10px;" /> </p>
 
 ---
-
-### 📊 GitHub Status
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvakavi&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yuvakavi&theme=tokyonight" />
-</p>
-
----
 ⭐ *“Always learning, always building.”*
 
